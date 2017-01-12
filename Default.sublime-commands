@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "SublimePrettier: apply to current file",
+        "command": "sublime_prettier"
+    }
+]
